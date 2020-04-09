@@ -1,0 +1,10 @@
+# como estoy utilizando docker
+    docker exec -it mysql bash
+# Utilizaremos la terminal
+    cd /
+    /usr/local/mysql/support-files/mysql.server start // or service mysql start
+# Ejecutamos el programa, recordando que 'admin' es nuestra contraseña y podriamos agregar -h 127.0.0.1
+    mysql -u root -p
+# Para salir de mysql
+    quit
+    exit

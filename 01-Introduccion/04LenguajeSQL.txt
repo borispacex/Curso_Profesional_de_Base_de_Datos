@@ -1,0 +1,5 @@
+El lenguaje SQL ha sufrido modificaciones en cada gestor que ha sido implementado.
+
+Cada sentencia ha sido modificada dependiendo del gestor.
+
+Pregunta: Es recomendable usar sistemas como MySQL Workbench para administrar bases de datos o realizar consultas a través de consola.

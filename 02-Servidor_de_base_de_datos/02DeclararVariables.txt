@@ -1,0 +1,14 @@
+# Iniciamos sesion, 'admin' es el password
+    mysql -u root -p
+# limpiar pantalla de MYSQL
+    system clear
+# Declaramos par de variables en MYSQL
+    SET @nombre = "Boris";
+    SET @nombre := "Boris1";    // otra forma
+    SET @curso = "Base de datos", @gestor = "MySql";
+# Para obtener valor de la variable
+    SELECT @nombre;
+    SELECT @nombre, @curso, @gestor;
+# Si salimos de la sesion, las variables se pierden
+    quit
+    exit

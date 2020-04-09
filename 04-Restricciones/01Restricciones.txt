@@ -1,0 +1,6 @@
+# CONSTRAINS, no podemos colocar un valor erroneo a una columna
+    INSERT INTO (fecha_nacimiento) VALUES ('string incorrecto');
+# Nos da error
+
+# Si insertamos con valores nulos, no sale error
+    INSERT INTO () VALUES ();

@@ -1,0 +1,2 @@
+# Recordando la conexion para acceder con el usuario root y la contrasenia admin,
+    mysql -u root -p

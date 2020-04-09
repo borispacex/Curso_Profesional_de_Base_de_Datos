@@ -1,0 +1,8 @@
+# Crear base de datos en MYSQL
+    CREATE DATABASE libreria_cf;
+# Visualizar todas las bases de datos
+    SHOW DATABASES;
+# los usuarios, las configuraciones, por demas se almacenan en la base de datos SYS, MYSQL, INFORMATION_SCHEMA Y PERFORMAnCE_SCHEMA
+
+# Eliminar base de datos
+    DROP DATABASE libreria_cf;

@@ -1,0 +1,8 @@
+# Funciones
+    -- necesitan retornar un valor
+    -- funciones para:
+        - String
+        - Numeros (Enteros o Flotantes)
+        - Fechas
+        - Condiciones
+        

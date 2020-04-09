@@ -1,0 +1,6 @@
+# En mi caso utilizare docker
+    docker run -e MYSQL_ROOT_PASSWORD=admin --name mysql -d -v c:/data:/curso_db -p=3306:3306 mysql:5.7
+# Y para la administracion utilizare workbench
+
+# Para ingresar a nuestro contenedor MYSQL
+    docker exec -it mysql bash

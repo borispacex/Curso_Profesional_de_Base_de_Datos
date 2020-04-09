@@ -1,0 +1,2 @@
+# Podemos ejecutar sentencias sin iniciar sesion en MYSQL
+    mysql -u root -p libreria_cf -e 'SELECT * FROM autores;'
