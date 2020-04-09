@@ -21,6 +21,6 @@
     SELECT CONCAT(nombre, ' ', apellidos) AS nombre_completo FROM usuarios; -- deben retornar la misma cantidad de columnas
 
     -- si queremos agregar email, le mandamos vacio en autores
-    SELECT CONCAT(nombre, ' ', apellido) AS nombre_completo, '' AS email FROM autores 
+    SELECT CONCAT(nombre, ' ', apellido) AS nombre_completo, '' FROM autores 
     UNION 
-    SELECT CONCAT(nombre, ' ', apellidos), email FROM usuarios;
+    SELECT CONCAT(nombre, ' ', apellidos) email FROM usuarios;
