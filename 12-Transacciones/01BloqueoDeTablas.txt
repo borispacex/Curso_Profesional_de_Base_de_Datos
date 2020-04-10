@@ -1,0 +1,5 @@
+# Bloques de tablas
+    -- al mismo tiempo pueden consultar a la misma tabla
+    -- 1 cuando se ejecuta consulta, insersion, actualizacion o eliminacion
+    -- 2 cuando se ejecuta insersion, actualizacion o eliminacion
+    -- en 2 no se bloquea

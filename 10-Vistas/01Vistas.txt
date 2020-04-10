@@ -1,0 +1,2 @@
+# Vistas
+    -- podemos generar vistas atraves de queris muy complejos

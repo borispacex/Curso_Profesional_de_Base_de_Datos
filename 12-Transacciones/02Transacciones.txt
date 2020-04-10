@@ -1,0 +1,4 @@
+# Transacciones
+    -- un sentencia falla todo el proceso falla
+    -- transaccion como el mecanismo que nos permite agrupar N cantidades SQL en una sola
+    -- atomocidad
